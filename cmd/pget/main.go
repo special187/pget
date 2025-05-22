@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Code-Hex/pget"
+	"github.com/special187/pget"
 )
 
 var version string

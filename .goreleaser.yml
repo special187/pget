@@ -52,7 +52,7 @@ brews:
     owner: Code-Hex
     name: homebrew-tap
     token: "{{ .Env.HOMEBREW_TAP_GITHUB_TOKEN }}"
-  homepage: https://github.com/Code-Hex/pget
+  homepage: https://github.com/special187/pget
   description: The fastest file download client
   folder: Formula
   install: |
@@ -60,7 +60,7 @@ brews:
 nfpms:
   - license: MIT License
     maintainer: Kei Kamikawa <x00.x7f.x86@gmail.com>
-    homepage: https://github.com/Code-Hex/pget
+    homepage: https://github.com/special187/pget
     bindir: /usr/local/bin
     description: The fastest file download client
     formats:

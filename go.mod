@@ -1,4 +1,4 @@
-module github.com/Code-Hex/pget
+module github.com/special187/pget
 
 go 1.21
 

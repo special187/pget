@@ -91,7 +91,7 @@ const (
 	warningNumConnection = 4
 	warningMessage       = "[WARNING] Using a large number of connections to 1 URL can lead to DOS attacks.\n" +
 		"In most cases, `4` or less is enough. In addition, the case is increasing that if you use multiple connections to 1 URL does not increase the download speed with the spread of CDNs.\n" +
-		"See: https://github.com/Code-Hex/pget#disclaimer\n" +
+		"See: https://github.com/special187/pget#disclaimer\n" +
 		"\n" +
 		"Would you execute knowing these?\n"
 )
