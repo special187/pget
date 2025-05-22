@@ -43,7 +43,7 @@ func makeRange(i, procs int, rangeSize, contentLength int64) Range {
 	if i == procs-1 {
 		return Range{
 			low:  low,
-			high: contentLength,
+			high: contentLength - 1,
 		}
 	}
 	return Range{
